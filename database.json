@@ -1,3 +1,5 @@
 {
-  "allowedIPs": []
+  "allowedIPs": [
+    "128.199.237.3"
+  ]
 }
